@@ -36,7 +36,7 @@ Conventional rule-based fraud detection systems are often inadequate in identify
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repository-url>
+git clone "https://github.com/teckann/TrustFlow.git"
 cd "VHack 2026"
 ```
 
