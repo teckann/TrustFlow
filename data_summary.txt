@@ -1,0 +1,32 @@
+Transaction shape: (100000, 394)
+Identity shape: (144233, 41)
+Merged shape: (100000, 434)
+
+Class Imbalance:
+isFraud
+0    0.97439
+1    0.02561
+Name: proportion, dtype: float64
+
+Top 20 missing values:
+id_24    0.98500
+id_25    0.98388
+id_21    0.98380
+id_07    0.98377
+id_26    0.98377
+id_08    0.98377
+id_23    0.98376
+id_27    0.98376
+id_22    0.98376
+D7       0.93928
+dist2    0.91769
+D13      0.90479
+D12      0.89495
+D14      0.88847
+D6       0.87259
+id_18    0.87019
+M7       0.83961
+M9       0.83961
+M8       0.83961
+id_04    0.81433
+dtype: float64
