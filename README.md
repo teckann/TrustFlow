@@ -3,7 +3,7 @@
 ## 🌐 Project Context
 Digital payment adoption in ASEAN is skyrocketing, particularly through "Super Apps." However, millions of new users are "unbanked" or have low digital literacy. For a gig worker in the Philippines or a rural merchant in Thailand, losing their digital wallet balance to a fraudulent transaction is catastrophic and destroys trust in the digital economy.
 
-This project, developed for **VHack 2026 - Track 2: Digital Trust**, provides an AI-powered solution to detect and prevent fraud in real-time, specifically designed for digital wallet ecosystems.
+This project, developed for **VHack 2026 - Case Study 2: Digital Trust – Real-Time Fraud Shield for the Unbanked**, provides an AI-powered solution to detect and prevent fraud in real-time, specifically designed for digital wallet ecosystems.
 
 ## 🚀 Problem Statement
 Conventional rule-based fraud detection systems are often inadequate in identifying sophisticated or evolving fraud patterns. There is an urgent need for AI models that can analyze transaction behavior, detect anomalies in real-time, and prevent fraudulent activities without disrupting genuine transactions for legitimate users.
@@ -58,4 +58,4 @@ streamlit run main.py
 4. Click **"Load Fraud Example"** to quickly see how the system identifies and blocks a high-risk transaction pattern.
 
 ---
-**Developed for VHack 2026 - Digital Trust Track.**
+**Developed for VHack 2026 - Case Study 2: Digital Trust – Real-Time Fraud Shield for the Unbanked**
